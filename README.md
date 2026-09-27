@@ -1,2 +1,2 @@
 # Javascript-Projects
-All the projects build in javascript!!
+All the projects build and created in javascript!!
